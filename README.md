@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HW4 Exchange Matching Engine
 We used python for this assignment. The overview of the assignment can be found in written up.
 
@@ -17,3 +18,7 @@ matching_server_1  | OSError: [Errno 99] Cannot assign requested address
 It seems that with Docker, the program can not bind socket normally.
 
 Our Dockerfile is under matching_engine folder.
+=======
+# Matching_Engine
+A stock matching engine.
+>>>>>>> 942a533192e7b6089e42bb2004f17b66ca3da987
